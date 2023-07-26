@@ -6,4 +6,10 @@ git commit -m "second change"
 
 git push -u origin master
 
+nice go ahead
+
 today i learned git clone 
+
+
+
+
