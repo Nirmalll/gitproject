@@ -4,4 +4,6 @@ today learning git add interface.txt
 
 git commit -m "second change"
 
-git push -u origin master 
+git push -u origin master
+
+today i learned git clone 
