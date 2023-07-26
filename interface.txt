@@ -1,1 +1,7 @@
 hello alllllllllll . .connect this location version control system
+
+today learning git add interface.txt
+
+git commit -m "second change"
+
+git push -u origin master 
